@@ -1,0 +1,35 @@
+pr_event_type_id,pr_event_type_name,pr_event_type_is_wedding,pr_event_type_is_teaser,pr_event_type_state,pr_event_type_district,pr_event_type_order,pr_event_type_status,pr_event_type_is_cp,pr_event_type_is_cv,pr_event_type_is_tp,pr_event_type_is_tv,pr_event_type_is_live,pr_event_type_is_led,pr_event_type_is_drone
+1,wedding,1,1,,,17,1,1,1,1,1,1,0,1
+2,birthday,0,1,,,,1,1,1,1,1,0,0,0
+3,pre wedding,1,1,,,2,1,1,1,0,0,0,0,0
+4,post wedding,1,0,,,3,1,1,1,0,0,0,0,0
+5,saree function,0,1,,,,1,1,1,1,1,0,0,0
+6,engagement,1,1,,,1,1,1,1,1,1,0,0,0
+7,reception,1,1,,,19,1,1,1,1,1,0,0,0
+8,pellikuturu,1,1,,,7,1,0,0,1,1,0,0,0
+9,pellikuturu Day2,1,0,,,9,1,0,0,1,1,0,0,0
+10,pellikuturu day 3,1,0,,,10,1,0,0,1,1,0,0,0
+11,pellikoduku,1,1,,,8,1,0,0,1,1,0,0,0
+12,pellikoduku day 2,1,0,,,11,1,0,0,1,1,0,0,0
+13,pellikoduku day 3,1,0,,,12,1,0,0,1,1,0,0,0
+14,vratham,1,0,,,20,1,0,0,1,1,0,0,0
+15,sangeeth,1,1,,,14,1,1,1,1,1,0,0,0
+16,pre bday shoot,0,1,,,,1,1,1,1,1,0,0,0
+17,dhothi,0,1,,,,1,1,1,1,1,0,0,0
+18,mehendi,1,1,,,13,1,1,1,1,1,0,0,0
+19,house warming,0,1,,,,1,1,1,1,1,0,0,0
+20,baby shower,0,1,,,,1,1,1,1,1,0,0,0
+21,Maternity,0,1,,,,1,1,1,1,1,0,0,0
+22,Cradle Ceremony,0,1,,,,1,1,1,1,1,0,0,0
+23,Haldi bride,1,1,,,4,1,1,1,1,1,0,0,0
+24,anniversary,0,1,,,,1,1,1,1,1,0,0,0
+25,haldi groom,1,1,,,5,1,1,1,1,1,0,0,0
+26,haldi both side,1,1,,,6,1,1,1,1,1,0,0,0
+27,meeting,0,1,,,,1,1,1,1,1,0,0,0
+28,snathakam,1,1,,,15,1,0,0,1,1,0,0,0
+29,edurkolu,1,1,,,16,1,0,0,1,1,0,0,0
+30,baraat,1,1,,,18,1,1,1,1,1,0,0,0
+31,haldi half saree,0,1,,,,1,1,1,1,1,0,0,0
+32,wedding - single side,1,0,,,,1,1,1,1,1,0,0,0
+33,engagement - single side,1,0,,,,1,1,1,1,1,0,0,0
+34,annaprasana,0,1,,,,1,1,1,1,1,0,0,0
