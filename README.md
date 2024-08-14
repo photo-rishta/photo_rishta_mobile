@@ -1,16 +1,20 @@
 # photo_rishta_mobile
 
-A new Flutter project.
+Welcome to this mobile application:
 
-## Getting Started
+What is Photo Rishta?
+Photo Rishta is an aggregator connecting photography studios and customers.
 
-This project is a starting point for a Flutter application.
+Our Website?
+https://photorishta.com
 
-A few resources to get you started if this is your first Flutter project:
+Our Tech Stack:
+PHP as backend, mysql as database and HTML,CSS and Jquery for frontend
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Objectives:
+To build a mobile application in flutter with bloc state management and firebase as a database
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Queries:
+In case you have any queries please feel free to connect with me on
+linkedin: https://www.linkedin.com/in/vamshi-photo-rishta/
+Instagram: https://www.instagram.com/photo_rishta/
