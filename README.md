@@ -29,7 +29,12 @@ PRODUCTION:
 6. L.E.D Operator
 7. Drone Pilot
 
-POST-PRODUCTION: 8. Photo Editor 9. Video Editor (Skilled job usually edits the highlight videos) 10. Full length video editor 11. Album Designer
+POST-PRODUCTION:
+
+1. Photo Editor
+2. Video Editor (Skilled job usually edits the highlight videos)
+3. Full length video editor
+4. Album Designer
 
 Though there are few more roles like skin retoucher, color grading artist etc., we can ignore them for now
 
